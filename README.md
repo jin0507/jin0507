@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="2000" src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105">
+<img align="right" alt="Coding" width="2000" src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif">
 <h1 align="center">Hi 👋, I'm Nguyen Hoang Anh Tuan</h1>
 <h3 align="center">I am a artificial intelligence developer from Vietnam</h3>
 
