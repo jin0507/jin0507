@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="2000" src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif">
 <h1 align="center">Hi 👋, I'm Nguyen Hoang Anh Tuan</h1>
-<h3 align="center">I am an Artificial Intelligence developer from Vietnam</h3>
+<h3 align="center">I am an Artificial Intelligence engineer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jin0507&label=Profile%20views&color=0e75b6&style=flat" alt="jin0507" /> </p>
 
