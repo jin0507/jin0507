@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **AI, Computer Vision, Data Analysis**
+- 🌱 I’m currently learning **AI, Computer Vision, Data Analysis, Natural Language Processing**
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning**
 
