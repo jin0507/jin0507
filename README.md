@@ -13,7 +13,7 @@
 - 🧠 Interested in NLP, Multimodal AI, and AI Agents.
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/jin0507">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jin0507&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="jin0507's GitHub Stats" />
