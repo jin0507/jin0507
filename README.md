@@ -9,7 +9,7 @@
 </p>
 
 ## 📌 About Me
-- 🔭 Building AI applications with OCR, RAG, and LLM systems
+- 🔭 Building AI applications with OCR, RAG, and LLM systems.
 - 🧠 Interested in NLP, Multimodal AI, and AI Agents.
 
 
