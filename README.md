@@ -1,7 +1,8 @@
 <img align="right" alt="Coding" width="2000" src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif">
-<h1 align="center">hey <img src="https://raw.githubusercontent.com/tarikul-islam-anik/animated-fluent-emojis/master/emojis/animals/penguin.png" height="30px" width="30px"> i'm anh tuan</h1>
+## <h1 align="center">hey <img src="https://raw.githubusercontent.com/tarikul-islam-anik/animated-fluent-emojis/master/emojis/animals/penguin.png" height="30px" width="30px"> i'm anh tuan</h1>
+<h1 align="center">hey <img src="./assets/cat.gif" height="30px" width="30px"> i'm anh tuan</h1>
 
-<img src="./assets/cat.gif" width="400"/>
+## <img wi src="./assets/cat.gif" width="400"/>
 
 <h3 align="center">I am an Artificial Intelligence Engineer from Vietnam</h3>
 
