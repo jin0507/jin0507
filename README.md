@@ -2,7 +2,7 @@
 <!-- <h1 align="center">hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> i'm anh tuan</h1> -->
 <h1 align="center">Hey <img src="./assets/clawd-typing.gif" height="30px" width="30px"> I'm Anh Tuan</h1>
 
-<h3 align="center">I am an Artificial Intelligence Engineer from Vietnam</h3>
+<h3 align="center">I am an AI Engineer from Vietnam</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=jin0507">
