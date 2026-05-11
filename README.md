@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="2000" src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif">
 <!-- <h1 align="center">hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> i'm anh tuan</h1> -->
-<h1 align="center">Hey <img src="./assets/clawd-typing.gif" height="30px" width="30px"> i'm Anh Tuan</h1>
+<h1 align="center">Hey <img src="./assets/clawd-typing.gif" height="30px" width="30px"> I'm Anh Tuan</h1>
 
 <h3 align="center">I am an Artificial Intelligence Engineer from Vietnam</h3>
 
