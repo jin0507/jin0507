@@ -36,7 +36,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />
-
+  <img src="./assets/qdrant.svg" alt="Redis" width="40" />
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
